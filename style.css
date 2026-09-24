@@ -1,8 +1,3 @@
-/* =========================================================
-   PUTRI AULISYA — NEW PORTFOLIO
-   Vanilla HTML + CSS + JavaScript
-   ========================================================= */
-
 :root {
   --ink: #17131d;
   --muted: #51485f;
@@ -441,7 +436,6 @@ footer {
 }
 
 
-/* Clickable certificate cards */
 .credential-link {
   color: inherit;
   text-decoration: none;
