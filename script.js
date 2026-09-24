@@ -45,10 +45,6 @@ const sectionObserver = new IntersectionObserver((entries) => {
 
 sections.forEach(section => sectionObserver.observe(section));
 
-function showLinkMessage(event, name) {
-  event.preventDefault();
-  alert(`${name}: silakan ganti href="#" di index.html dengan link akun ${name} kamu.`);
-}
 
 // Efek kecil pada kartu foto.
 const photoCard = document.querySelector(".photo-card");
