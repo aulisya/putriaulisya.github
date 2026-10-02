@@ -215,6 +215,9 @@ h1 em, h2 em { color: #7c3aed; font-style: normal; }
 }
 .tag-one { top: 18%; right: 1%; transform: rotate(8deg); }
 .tag-two { bottom: 16%; left: 1%; transform: rotate(-7deg); background: #eadfff; }
+.tag-three { top:42%; left: 1%; transform: rotate(6deg); }
+.tag-four { bottom: 35%; left: 1%; transform: rotate(-6deg); }
+.tag-five { bottom: 5%; right: 12%; transform: rotate(5deg); } 
 
 .section-head { margin-bottom: 65px; }
 .section-head h2 {
